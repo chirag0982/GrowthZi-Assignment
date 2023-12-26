@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lead Generation Form</title>
+</head>
+<body>
+    {% if errors %}
+        <ul>
+            {% for error in errors %}
+                <li>{{ error }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+    {% if success %}
+        <p>{{ success }}</p>
+    {% endif %}
+    <h1>Lead Generation Form</h1>
+    <form method="POST" action="/submit_lead">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" value="{{ request.form.get('name') }}"><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" value="{{ request.form.get('email') }}"><br>
+        <label for="phone_number">Phone Number:</label><br>
+        <input type="text" id="phone_number" name="phone_number" value="{{ request.form.get('phone_number') }}"><br>
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password"><br>
+        <label for="confirm_password">Confirm Password:</label><br>
+        <input type="password" id="confirm_password" name="confirm_password"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

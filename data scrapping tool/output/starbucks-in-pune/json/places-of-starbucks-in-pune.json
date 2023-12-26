@@ -1,0 +1,512 @@
+[
+    {
+        "place_id": "ChIJbSycTYe_wjsRhPxcLlCZrJw",
+        "name": "Starbucks Coffee",
+        "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        "is_spending_on_ads": false,
+        "reviews": 9500,
+        "competitors": [
+            {
+                "name": "Starbucks Coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+Coffee/@18.556809899999998,73.8089632?authuser=0&hl=en&entry=ttu",
+                "reviews": 3926,
+                "rating": 4.3,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Starbucks",
+                "link": "https://www.google.com/maps/search/Starbucks/@18.5618929,73.8072246?authuser=0&hl=en&entry=ttu",
+                "reviews": 1852,
+                "rating": 4.2,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Starbucks Coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+Coffee/@18.5143213,73.8288261?authuser=0&hl=en&entry=ttu",
+                "reviews": 423,
+                "rating": 4.4,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Boka Book Cafe",
+                "link": "https://www.google.com/maps/search/Boka+Book+Cafe/@18.516733,73.8416846?authuser=0&hl=en&entry=ttu",
+                "reviews": 273,
+                "rating": 4.2,
+                "main_category": "Cafe"
+            }
+        ],
+        "website": "http://www.starbucks.in/",
+        "owner": {
+            "id": "114640337474206511599",
+            "name": "Starbucks Coffee (Owner)",
+            "link": "https://www.google.com/maps/contrib/114640337474206511599"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFxQ7yYwVcigjTCLPe1MIS7ZegoJ8JfD1nBIGO=w408-h306-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop",
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "7 am-11 pm",
+        "closed_on": "Open All Days",
+        "phone": "072088 53516",
+        "address": "Starbucks Coffee, Mosaic Ground Floor West, 2, Gopal Krushna Gokhale Marg, across Fergusson College Road, Shivajinagar, Pune, Maharashtra 411004",
+        "review_keywords": [
+            {
+                "keyword": "meeting",
+                "count": 65
+            },
+            {
+                "keyword": "college",
+                "count": 33
+            },
+            {
+                "keyword": "outlet",
+                "count": 31
+            },
+            {
+                "keyword": "brand",
+                "count": 29
+            },
+            {
+                "keyword": "hazelnut",
+                "count": 24
+            },
+            {
+                "keyword": "signature",
+                "count": 16
+            },
+            {
+                "keyword": "arrangement",
+                "count": 11
+            },
+            {
+                "keyword": "parking space",
+                "count": 9
+            },
+            {
+                "keyword": "ram",
+                "count": 8
+            },
+            {
+                "keyword": "free wifi",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks+Coffee/data=!4m7!3m6!1s0x3bc2bf874d9c2c6d:0x9cac99502e5cfc84!8m2!3d18.5225201!4d73.841217!16s%2Fg%2F11b73v3lx2!19sChIJbSycTYe_wjsRhPxcLlCZrJw?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6bdsBTu_wjsR8LWgbuXDxa4",
+        "name": "Starbucks Coffee",
+        "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        "is_spending_on_ads": false,
+        "reviews": 3929,
+        "competitors": [
+            {
+                "name": "Starbucks Coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+Coffee/@18.522520099999998,73.841217?authuser=0&hl=en&entry=ttu",
+                "reviews": 9494,
+                "rating": 4.3,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Starbucks",
+                "link": "https://www.google.com/maps/search/Starbucks/@18.5618929,73.8072246?authuser=0&hl=en&entry=ttu",
+                "reviews": 1852,
+                "rating": 4.2,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Third Wave Coffee",
+                "link": "https://www.google.com/maps/search/Third+Wave+Coffee/@18.5562353,73.8089403?authuser=0&hl=en&entry=ttu",
+                "reviews": 562,
+                "rating": 4.6,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Starbucks Coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+Coffee/@18.5143213,73.8288261?authuser=0&hl=en&entry=ttu",
+                "reviews": 423,
+                "rating": 4.4,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Starbucks - Panchshil Cummins Baner (S077)",
+                "link": "https://www.google.com/maps/search/Starbucks+-+Panchshil+Cummins+Baner+%28S077%29/@18.5700221,73.7811009?authuser=0&hl=en&entry=ttu",
+                "reviews": 16,
+                "rating": 4.1,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": "https://www.starbucks.com/",
+        "owner": {
+            "id": "104849679335800764977",
+            "name": "Starbucks Coffee (Owner)",
+            "link": "https://www.google.com/maps/contrib/104849679335800764977"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTsH753_7RdGXwczgrd0HxQS_s6UGccez1LQeu=w408-h272-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": 4.3,
+        "workday_timing": "7 am-11:30 pm",
+        "closed_on": "Open All Days",
+        "phone": "073045 99016",
+        "address": "Starbucks Coffee, Ground Centriole Mall, ITI Rd, Anand Park, Aundh, Pune, Maharashtra 411007",
+        "review_keywords": [
+            {
+                "keyword": "meetings",
+                "count": 24
+            },
+            {
+                "keyword": "feel",
+                "count": 21
+            },
+            {
+                "keyword": "outlet",
+                "count": 18
+            },
+            {
+                "keyword": "conversation",
+                "count": 15
+            },
+            {
+                "keyword": "interior",
+                "count": 8
+            },
+            {
+                "keyword": "fan",
+                "count": 8
+            },
+            {
+                "keyword": "evening",
+                "count": 7
+            },
+            {
+                "keyword": "crowd",
+                "count": 6
+            },
+            {
+                "keyword": "red velvet",
+                "count": 6
+            },
+            {
+                "keyword": "free wifi",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks+Coffee/data=!4m7!3m6!1s0x3bc2bf3b056cb7e9:0xaec5c3e56ea0b5f0!8m2!3d18.5568099!4d73.8089632!16s%2Fg%2F1ptwl348f!19sChIJ6bdsBTu_wjsR8LWgbuXDxa4?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJq7jKGeu_wjsRAyjzz3WhI74",
+        "name": "Starbucks Coffee",
+        "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        "is_spending_on_ads": false,
+        "reviews": 3851,
+        "competitors": [
+            {
+                "name": "Starbucks Coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+Coffee/@18.556809899999998,73.8089632?authuser=0&hl=en&entry=ttu",
+                "reviews": 3926,
+                "rating": 4.3,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Cafe Durga",
+                "link": "https://www.google.com/maps/search/Cafe+Durga/@18.5060128,73.8178307?authuser=0&hl=en&entry=ttu",
+                "reviews": 3824,
+                "rating": 4,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Chai Express - Karishma Kothrud",
+                "link": "https://www.google.com/maps/search/Chai+Express+-+Karishma+Kothrud/@18.501957,73.8216613?authuser=0&hl=en&entry=ttu",
+                "reviews": 560,
+                "rating": 4.1,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "KIOSK KAFFEE",
+                "link": "https://www.google.com/maps/search/KIOSK+KAFFEE/@18.501997,73.81675249999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 217,
+                "rating": 4.4,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Coffee Square",
+                "link": "https://www.google.com/maps/search/Coffee+Square/@18.502439799999998,73.8160819?authuser=0&hl=en&entry=ttu",
+                "reviews": 46,
+                "rating": 4.2,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": "http://www.starbucks.in/",
+        "owner": {
+            "id": "105767169477453559411",
+            "name": "Starbucks Coffee (Owner)",
+            "link": "https://www.google.com/maps/contrib/105767169477453559411"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPW67IgRihjR2_cViroKIyjAjePhEsEI2HCpltj=w427-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Coffee shop"
+        ],
+        "rating": 4.3,
+        "workday_timing": "7 am-11 pm",
+        "closed_on": "Open All Days",
+        "phone": "073045 99043",
+        "address": "Ground Floor, Starbucks Coffee, Sangam Solitaire, Late GA Kulkarni Path, Sangam Shree Society, Kothrud, Pune, Maharashtra 411038",
+        "review_keywords": [
+            {
+                "keyword": "frappuccino",
+                "count": 16
+            },
+            {
+                "keyword": "peaceful",
+                "count": 14
+            },
+            {
+                "keyword": "parking",
+                "count": 13
+            },
+            {
+                "keyword": "chat",
+                "count": 12
+            },
+            {
+                "keyword": "outlet",
+                "count": 8
+            },
+            {
+                "keyword": "chocolate chip",
+                "count": 6
+            },
+            {
+                "keyword": "laptop",
+                "count": 6
+            },
+            {
+                "keyword": "social distancing",
+                "count": 5
+            },
+            {
+                "keyword": "signature",
+                "count": 5
+            },
+            {
+                "keyword": "crowd",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks+Coffee/data=!4m7!3m6!1s0x3bc2bfeb19cab8ab:0xbe23a175cff32803!8m2!3d18.5021628!4d73.8219737!16s%2Fg%2F11c2jt694t!19sChIJq7jKGeu_wjsRAyjzz3WhI74?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJpw_42zS5wjsR8a4aCUzyWEs",
+        "name": "Starbucks",
+        "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        "is_spending_on_ads": false,
+        "reviews": 3535,
+        "competitors": [
+            {
+                "name": "Starbucks Coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+Coffee/@18.522520099999998,73.841217?authuser=0&hl=en&entry=ttu",
+                "reviews": 9494,
+                "rating": 4.3,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Cafe Coffee Day",
+                "link": "https://www.google.com/maps/search/Caf%C3%A9+Coffee+Day/@18.5644484,73.7791633?authuser=0&hl=en&entry=ttu",
+                "reviews": 1883,
+                "rating": 4,
+                "main_category": "Cafe"
+            },
+            {
+                "name": "Starbucks Coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+Coffee/@18.5143213,73.8288261?authuser=0&hl=en&entry=ttu",
+                "reviews": 423,
+                "rating": 4.4,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Cafe Creme Balewadi",
+                "link": "https://www.google.com/maps/search/Cafe+Creme+Balewadi/@18.574562099999998,73.7733294?authuser=0&hl=en&entry=ttu",
+                "reviews": 141,
+                "rating": 4.5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Starbucks - Panchshil Cummins Baner (S077)",
+                "link": "https://www.google.com/maps/search/Starbucks+-+Panchshil+Cummins+Baner+%28S077%29/@18.5700221,73.7811009?authuser=0&hl=en&entry=ttu",
+                "reviews": 16,
+                "rating": 4.1,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": "http://www.starbucks.com/",
+        "owner": {
+            "id": "105896497555253942042",
+            "name": "Starbucks (Owner)",
+            "link": "https://www.google.com/maps/contrib/105896497555253942042"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN0Z6bVRzJCFCSzjnsOMZf3YSoj6r6svepmaufs=w427-h240-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": 4.4,
+        "workday_timing": "8 am-11 pm",
+        "closed_on": "Open All Days",
+        "phone": "092846 56744",
+        "address": "Starbucks, Balewadi High St, Laxman Nagar, Baner, Pune, Maharashtra 411052",
+        "review_keywords": [
+            {
+                "keyword": "experience",
+                "count": 70
+            },
+            {
+                "keyword": "meetings",
+                "count": 44
+            },
+            {
+                "keyword": "ambience",
+                "count": 14
+            },
+            {
+                "keyword": "frappuccino",
+                "count": 14
+            },
+            {
+                "keyword": "brand",
+                "count": 14
+            },
+            {
+                "keyword": "chocolate chip",
+                "count": 10
+            },
+            {
+                "keyword": "outlet",
+                "count": 9
+            },
+            {
+                "keyword": "crowd",
+                "count": 8
+            },
+            {
+                "keyword": "safety",
+                "count": 6
+            },
+            {
+                "keyword": "hibiscus",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x3bc2b934dbf80fa7:0x4b58f24c091aaef1!8m2!3d18.5700741!4d73.7745053!16s%2Fg%2F11dymgh0zq!19sChIJpw_42zS5wjsR8a4aCUzyWEs?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJqy5lITC_wjsR3xRk-KE9vo8",
+        "name": "Starbucks",
+        "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        "is_spending_on_ads": false,
+        "reviews": 1853,
+        "competitors": [
+            {
+                "name": "Starbucks Coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+Coffee/@18.556809899999998,73.8089632?authuser=0&hl=en&entry=ttu",
+                "reviews": 3926,
+                "rating": 4.3,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Starbucks coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+coffee/@18.534255899999998,73.82970689999999?authuser=0&hl=en&entry=ttu",
+                "reviews": 1050,
+                "rating": 4.4,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Starbucks Coffee",
+                "link": "https://www.google.com/maps/search/Starbucks+Coffee/@18.5143213,73.8288261?authuser=0&hl=en&entry=ttu",
+                "reviews": 423,
+                "rating": 4.4,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "The Coffee Bean and Tea leaf",
+                "link": "https://www.google.com/maps/search/The+Coffee+Bean+and+Tea+leaf/@18.5622934,73.8071922?authuser=0&hl=en&entry=ttu",
+                "reviews": 27,
+                "rating": 4.5,
+                "main_category": "Coffee shop"
+            },
+            {
+                "name": "Starbucks - Panchshil Cummins Baner (S077)",
+                "link": "https://www.google.com/maps/search/Starbucks+-+Panchshil+Cummins+Baner+%28S077%29/@18.5700221,73.7811009?authuser=0&hl=en&entry=ttu",
+                "reviews": 16,
+                "rating": 4.1,
+                "main_category": "Coffee shop"
+            }
+        ],
+        "website": "http://starbucks.in/",
+        "owner": {
+            "id": "102697530063898041694",
+            "name": "Starbucks (Owner)",
+            "link": "https://www.google.com/maps/contrib/102697530063898041694"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9-fTm_Fjkdb8SmbG8wYQ45Gdq1536l3nPVQvf=w426-h240-k-no",
+        "main_category": "Coffee shop",
+        "categories": [
+            "Coffee shop"
+        ],
+        "rating": 4.2,
+        "workday_timing": "11 am-11 pm",
+        "closed_on": "Open All Days",
+        "phone": "097661 82454",
+        "address": "Starbucks, WESTEND MALL, Harmony Society, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411007",
+        "review_keywords": [
+            {
+                "keyword": "experience",
+                "count": 28
+            },
+            {
+                "keyword": "sitting",
+                "count": 15
+            },
+            {
+                "keyword": "mall",
+                "count": 14
+            },
+            {
+                "keyword": "service",
+                "count": 12
+            },
+            {
+                "keyword": "outlet",
+                "count": 11
+            },
+            {
+                "keyword": "name",
+                "count": 10
+            },
+            {
+                "keyword": "cheese cake",
+                "count": 7
+            },
+            {
+                "keyword": "frappuccino",
+                "count": 6
+            },
+            {
+                "keyword": "conversation",
+                "count": 6
+            },
+            {
+                "keyword": "mocha",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x3bc2bf3021652eab:0x8fbe3da1f86414df!8m2!3d18.5618929!4d73.8072246!16s%2Fg%2F11c6ygtr0l!19sChIJqy5lITC_wjsR3xRk-KE9vo8?authuser=0&hl=en&rclk=1"
+    }
+]
